@@ -1,6 +1,6 @@
 ### Best-Practices
 ## Review checklist
- #  General
+#  General
 Does the code work?
 Description of the project status is included.
 Code is easily understand.
