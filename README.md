@@ -89,17 +89,4 @@
 3. Use branches for new features.
 4. Make sure no dist files, editor/IDE files, etc are checked in. There should be a .gitignore for that.
 
-## Other
 
-1. Security.
-2. Usability.
-
-### Useful links
-
-- [Code Review Checklist – To Perform Effective Code Reviews](http://www.evoketechnologies.com/blog/code-review-checklist-perform-effective-code-reviews/)
-- [Code review checklist](https://gist.github.com/justinhillsjohnson/5503121)
-- [React code review checklist](https://github.com/gurpreet-hanjra/react-code-review-checklist)
-- [Checklist for reviewing your own React code](http://blog.jakoblind.no/checklist-for-reviewing-your-own-react-code/)
-- [Front-end Code Review & Validation Tools](http://www.treselle.com/blog/front-end-code-review-validation-tools/)
-- [A guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
-- [Unit Testing Checklist: Keep Your Tests Useful and Avoid Big Mistakes](https://dzone.com/articles/unit-testing-checklist)
