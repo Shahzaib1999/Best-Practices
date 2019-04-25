@@ -53,6 +53,7 @@
 1. Use lodash/ramda functions instead of implementing itself.
 2. Is Immutable.js was used correctly?
 3. Is any nice/useful library was used wich we didn't know before?
+4. Use Axios : The .fetch() method is a great step in the right direction of getting http requests native in ES6, but just know that if you use it there are a couple of gotchas that might be better handled by third-party libraries like Axios.
 
 ## ESLint
 
